@@ -147,7 +147,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Sriram - [Your GitHub Profile](https://github.com/Sriram475)
+Sriram - [ GitHub Profile](https://github.com/Sriram475)
 
 ## 🙏 Acknowledgments
 
